@@ -419,9 +419,9 @@ return {
 									capacity = 80,
 									cargoTypeSet = {
 										cargoClassesExcluded = { },
-										cargoClassesIncluded = { },
+										cargoClassesIncluded = { "PASSENGERS", },
 										cargoTypesExcluded = { },
-										cargoTypesIncluded = { "::/cargos/passengers/passengers.cargo", },
+										cargoTypesIncluded = { },
 									},
 									loadIndicator = "slots_0",
 									seats = { },
